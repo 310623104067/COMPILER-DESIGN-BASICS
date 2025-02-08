@@ -32,9 +32,13 @@ Key Features
 
 *Operator precedence: * and / have higher precedence than + and -.
 
+
+
 * Parentheses support: Allows grouping of expressions.
   
 * Floating-point arithmetic: Supports decimal numbers like 3.14.
   
 * Error handling: Detects invalid input and prevents crashes.
+
+  ![Image](https://github.com/user-attachments/assets/e2d1bb19-c0d2-4746-8171-e5025dbb9acd)
 
